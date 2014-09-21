@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UCU MPAC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgdesc">imgdesc</string>
+
+    <string-array name="titles">
+        <item>Library</item>
+        <item>Favorites</item>
+        <item>Objectives</item>
+        <item>Rules</item>
+        <item>About</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/ic_book</item>
+        <item>@drawable/ic_favorites</item>
+        <item>@drawable/ic_mission</item>
+        <item>@drawable/ic_rnr</item>
+        <item>@drawable/ic_about</item>
+    </array>
+
+    <string-array name="strArr">
+        <item>Title</item>
+        <item>Author</item>
+        <item>Book No.</item>
+        <item>Subject</item>
+    </string-array>
+
+    <string name="title_activity_frag_favorites">FragFavorites</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+
+</resources>
